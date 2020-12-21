@@ -15,4 +15,4 @@
 </a>
 
 
-(https://keybase.io/earvin) on keybase, public key ASBk3zVM-i0bR0INKI24ijv82pBat5MEoyECVMvrE2bxIAo
+[on keybase](https://keybase.io/earvin), with public key `ASBk3zVM-i0bR0INKI24ijv82pBat5MEoyECVMvrE2bxIAo`
