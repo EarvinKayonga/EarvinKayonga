@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Rust.
 - 💬 Ask me about Golang, Rust and TypeScript
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 
 [![Blog](https://img.shields.io/badge/Thoughts-earvinkayonga.com-brightgreen)](https://earvinkayonga.com)
