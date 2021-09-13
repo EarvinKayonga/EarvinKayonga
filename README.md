@@ -1,9 +1,4 @@
-### Hi there 👋, I am Earvin Kyonga
-
-
-- 🌱 I’m currently learning Rust.
-- 💬 Ask me about Golang, Rust and TypeScript
-- 😄 Pronouns: He/Him
+### Hi there 👋, I am Earvin Kayonga
 
 
 [![Blog](https://img.shields.io/badge/Thoughts-earvinkayonga.com-brightgreen)](https://earvinkayonga.com)
